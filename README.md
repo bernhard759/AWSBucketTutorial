@@ -16,7 +16,7 @@ Before running this project, ensure that you have the following:
 
 ```
 git clone 
-cd 
+cd AWSBucketTutorial
 ```
 
 2. **Create a virtual environment (optional but recommended):**
